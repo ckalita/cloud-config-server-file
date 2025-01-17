@@ -1,0 +1,2 @@
+limits-service-sb3.minimum = 10
+limits-service-sb3.maximum = 1000
